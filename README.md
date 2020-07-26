@@ -1,4 +1,4 @@
-## Hi there, Madhan here 👋
+## Hi there 👋, I am Madhan 
 
 ### GitHub Stats
 
