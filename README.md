@@ -1,6 +1,10 @@
 ## Hi there 👋, I am Madhan
 
-- - - - - - 
+- 👨🏻‍💻  &nbsp;I’m primarily a software test engineer
+- 🌱  &nbsp;I’m currently learning flutter framework
+- 📫  &nbsp;Reach me [at] [madhank93](https://madhank93.github.io/)
+
+<br/>
 
 <a href="https://linkedin.com/in/madhank93">
   <img align="left" alt="Madhan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,6 +21,12 @@
 <a href="https://play.google.com/store/apps/developer?id=Madhan+Kumaravelu&hl=en">
   <img align="left" alt="Madhan's Android publication" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
 </a>
+
+<a href="https://madhank93.github.io/">
+  <img align="left" alt="Madhan's portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/internetarchive.svg" />
+</a>
+
+<br/>
 
 ### GitHub Stats
 
