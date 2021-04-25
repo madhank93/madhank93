@@ -22,6 +22,7 @@ const madhan = {
         devOps: ["Docker🐳", "GitHub actions"],
         databases: ["MySql", "NoSQL"],
         misc: ["Firebase"],
+        nextInPipeLine: ["Rust", "k8s", "GCP"]
     },
     currentFocus: "Typescript and Flutter & Dart",
 };
