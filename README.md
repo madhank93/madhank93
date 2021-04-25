@@ -31,23 +31,27 @@ const madhan = {
 <br/>
 
 <a href="https://linkedin.com/in/madhank93">
-  <img align="left" alt="Madhan's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Madhan's Linkdein" width="120px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/madhank93">
-  <img align="left" alt="Madhan's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Madhan's Github" width="120px" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@madhankumaravelu93">
-  <img align="left" alt="Madhan's Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
+  <img align="left" alt="Madhan's Medium" width="120px" height="30px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 <a href="https://play.google.com/store/apps/developer?id=Madhan+Kumaravelu&hl=en">
-  <img align="left" alt="Madhan's Android publication" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
+  <img align="left" alt="Madhan's Android publication" width="120px" height="30px" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
 
 <a href="https://madhank93.github.io/">
-  <img align="left" alt="Madhan's portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/internetarchive.svg" />
+  <img align="left" alt="Madhan's portfolio" width="120px" height="30px" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/5514320/madhan">
+  <img align="left" alt="Madhan's stack overflow" width="120px" height="30px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
 <br/>
