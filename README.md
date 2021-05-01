@@ -1,28 +1,28 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Madhan
 
-- 👨🏻‍💻  &nbsp;I’m primarily a software test engineer
+- 👨🏻‍💻  &nbsp;I’m primarily a Software test engineer
 - 🌱  &nbsp;I’m currently learning Flutter framework
-- 📫  &nbsp;Reach me [at] [madhank93](https://madhank93.github.io/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```dart
 const madhan = {
     pronouns: "He" | "Him",
-    code: ["Typescript", "Dart", "Java", "Python", "Ruby"],
+    programmingLanguage: ["Typescript", "Dart", "Java", "Python", "Ruby"],
     technologies: {
         testing: {
-            frameworks: ["WebdriverIO", "Mocha", "TestNG", "Selenium", "Rspec", "Capybara"]
-            techniques: ["Data driven", "Page object modelling"]
+            ui: ["WebdriverIO", "Selenium", "Capybara"]
+            api: ["RestAssured", "NodeFetch", "Postman"]
+            framework: ["TestNG", "Mocha", "Rspec"]
+            designPattern: ["Data driven", "Page object modelling", "Factory design pattern"]
             },
         mobileApp: ["Flutter"],
         backEnd: {
             js: ["node"],
         },
-        devOps: ["Docker🐳", "GitHub actions"],
+        devOps: ["Linux", "Git", "Docker", "GitHub actions"],
         databases: ["MySql", "NoSQL"],
         misc: ["Firebase"],
-        nextInPipeLine: ["Rust", "k8s", "GCP"]
     },
     currentFocus: "Typescript and Flutter & Dart",
 };
@@ -56,6 +56,8 @@ const madhan = {
 
 <br/>
 
+&nbsp;
+
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhank93&theme=tokyonight)](https://github.com/madhank93/github-readme-stats)
@@ -63,4 +65,7 @@ const madhan = {
 
 
 ### 😜 wisecrack
+
+&nbsp;
+
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
