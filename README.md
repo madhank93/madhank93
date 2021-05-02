@@ -69,3 +69,7 @@ const madhan = {
 &nbsp;
 
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+
+📕 **Latest blog posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
