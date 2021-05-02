@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '@weekly' # Runs every weekly on Sunday.
+    - cron: '0 0 * * 0' # Runs every weekly on Sunday.
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
