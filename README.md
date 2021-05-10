@@ -5,7 +5,9 @@
 - 🤸 T-shaped skillsets 
 - 🌱  &nbsp;I’m currently learning Flutter framework
 
+<a href="https://www.codewars.com/users/madhank93">
 <img src="https://www.codewars.com/users/madhank93/badges/large">
+</a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
