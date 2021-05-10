@@ -1,7 +1,11 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Madhan
 
 - 👨🏻‍💻  &nbsp;I’m primarily a Software test engineer
+- ⚛️ Language agnostic
+- 🤸 T-shaped skillsets 
 - 🌱  &nbsp;I’m currently learning Flutter framework
+
+<img src="https://www.codewars.com/users/madhank93/badges/large">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -61,6 +65,7 @@ const madhan = {
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhank93&theme=tokyonight)](https://github.com/madhank93/github-readme-stats)
+&nbsp;
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=madhank93&show_icons=true&theme=tokyonight)](https://github.com/madhank93/github-readme-stats)
 
 
