@@ -84,4 +84,5 @@ const madhan = {
 - [Selenium code snippets — a curated list of the working code example](https://medium.com/@madhankumaravelu93/selenium-code-snippets-a-curated-list-of-the-working-code-example-f7fbc692c2b6?source=rss-746ce7a5b455------2)
 - [Selenium cheat sheet — a comprehensive list of selenium commands](https://medium.com/@madhankumaravelu93/selenium-cheat-sheet-a-comprehensive-list-of-selenium-commands-fa4c5c9d11ab?source=rss-746ce7a5b455------2)
 - [What are build automation tool ? And a closer look at the Maven and POM file](https://medium.com/@madhankumaravelu93/what-are-build-automation-tool-and-a-closer-look-at-the-maven-and-pom-file-7b209a8a6c61?source=rss-746ce7a5b455------2)
+- [A Deep Dive into the W3C WebDriver Specification.](https://medium.com/@madhankumaravelu93/a-deep-dive-into-the-w3c-webdriver-specification-fcf0906048f9?source=rss-746ce7a5b455------2)
 <!-- BLOG-POST-LIST:END -->
