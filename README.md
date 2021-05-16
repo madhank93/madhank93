@@ -1,3 +1,5 @@
+<h2 align="center">யாதும் ஊரே 🌎 யாவரும் கேளிர் 🧑‍🤝‍🧑</h2>
+
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Madhan
 
 - 👨🏻‍💻  &nbsp;I’m primarily a Software test engineer
