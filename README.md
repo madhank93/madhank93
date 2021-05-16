@@ -3,13 +3,8 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Madhan
 
 - 👨🏻‍💻  &nbsp;I’m primarily a Software test engineer
-- ⚛️ Language agnostic
-- 🤸 T-shaped skillsets 
+- ⚛️ Language agnostic, 🤸 T-shaped, and 🧐 Curious engineer 
 - 🌱  &nbsp;I’m currently learning Flutter framework
-
-<a href="https://www.codewars.com/users/madhank93">
-<img src="https://www.codewars.com/users/madhank93/badges/large">
-</a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -66,6 +61,12 @@ const madhan = {
 
 &nbsp;
 
+<a align="right" href="https://www.codewars.com/users/madhank93">
+<img src="https://www.codewars.com/users/madhank93/badges/large" width=300 heigh=300>
+</a>
+
+&nbsp;
+
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhank93&theme=tokyonight)](https://github.com/madhank93/github-readme-stats)
@@ -74,8 +75,6 @@ const madhan = {
 
 
 ### 😜 wisecrack
-
-&nbsp;
 
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
