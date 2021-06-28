@@ -18,7 +18,7 @@ const madhan = {
             api: ["RestAssured", "NodeFetch", "Postman"]
             framework: ["TestNG", "Mocha", "Rspec"]
             designPattern: ["Data driven", "Page object modelling", "Factory design pattern"]
-            },
+        },
         mobileApp: ["Flutter"],
         backEnd: {
             js: ["node"],
