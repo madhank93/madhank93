@@ -80,6 +80,7 @@ const madhan = {
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Scaling tests on Google Kubernetes Engine with Cloud Build](https://medium.com/testvagrant/scaling-tests-on-google-kubernetes-engine-with-cloud-build-624d955f6698?source=rss-746ce7a5b455------2)
 - [Running WebdriverIO tests in containers](https://medium.com/testvagrant/running-webdriverio-tests-in-containers-871e0238e31f?source=rss-746ce7a5b455------2)
 - [Github Actions for Seleniod Test Scripts](https://medium.com/testvagrant/github-actions-for-seleniod-test-scripts-df469062a08c?source=rss-d5262110f51------2)
 - [Selenium DevOps series: Run your scripts in Travis CI](https://medium.com/@madhankumaravelu93/selenium-devops-series-run-your-scripts-in-travis-ci-b3505aaad367?source=rss-746ce7a5b455------2)
