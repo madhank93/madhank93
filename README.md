@@ -1,35 +1,11 @@
 <h2 align="center">யாதும் ஊரே 🌎 யாவரும் கேளிர் 🧑‍🤝‍🧑</h2>
+<h4 align="center">I am a world citizen 🌎 Every citizen is my own kith and kin🧑‍🤝‍🧑</h4>
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Madhan
 
 - 👨🏻‍💻  &nbsp;I’m primarily a Software test engineer
 - ⚛️ Language agnostic, 🤸 T-shaped, 🔥 Passionate, 🎨 Creative and 🧐 Curious engineer 
-- 🌱  &nbsp;I’m currently learning Flutter framework
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```dart
-const madhan = {
-    pronouns: "He" | "Him",
-    programmingLanguage: ["Typescript", "Dart", "Java", "Python", "Ruby"],
-    technologies: {
-        testing: {
-            ui: ["WebdriverIO", "Selenium", "Capybara"]
-            api: ["RestAssured", "NodeFetch", "Postman"]
-            framework: ["TestNG", "Mocha", "Rspec"]
-            designPattern: ["Data driven", "Page object modelling", "Factory design pattern"]
-        },
-        mobileApp: ["Flutter"],
-        backEnd: {
-            js: ["node"],
-        },
-        devOps: ["Linux", "Git", "Docker", "GitHub actions"],
-        databases: ["MySql", "NoSQL"],
-        misc: ["Firebase"],
-    },
-    currentFocus: "Typescript and Flutter & Dart",
-};
-```
+- 🌱  &nbsp;I’m interested in Backend engineering, Cloud native technologies and Mobile devlopment using Flutter
 
 <br/>
 
@@ -66,17 +42,6 @@ const madhan = {
 </a>
 
 &nbsp;
-
-### GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhank93&theme=tokyonight)](https://github.com/madhank93/github-readme-stats)
-&nbsp;
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=madhank93&show_icons=true&theme=tokyonight)](https://github.com/madhank93/github-readme-stats)
-
-
-### 😜 wisecrack
-
-<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
