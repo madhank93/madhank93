@@ -34,7 +34,7 @@
 </a>
 
 <a align="right" href="https://www.codewars.com/users/madhank93">
-<img src="https://www.codewars.com/users/madhank93/badges/large" width=300 heigh=500>
+<img src="https://www.codewars.com/users/madhank93/badges/micro" height="30px">
 </a>
 
 <br/>
