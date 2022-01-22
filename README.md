@@ -1,45 +1,43 @@
 <h2 align="center">யாதும் ஊரே 🌎 யாவரும் கேளிர் 🧑‍🤝‍🧑</h2>
-<h4 align="center">I am a world citizen 🌎 Every citizen is my own kith and kin🧑‍🤝‍🧑</h4>
+<h4 align="center">I am a world citizen 🌎 Every citizen is my own kith and kin 🧑‍🤝‍🧑</h4>
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Madhan
 
 - 👨🏻‍💻  &nbsp;I’m primarily a Software test engineer
-- ⚛️ Language agnostic, 🤸 T-shaped, 🔥 Passionate, 🎨 Creative and 🧐 Curious engineer 
+- ⚛️ Technology agnostic, 🤸 T-shaped and 🧐 Curious engineer 
 - 🌱  &nbsp;I’m interested in Backend engineering, Cloud native technologies and Mobile devlopment using Flutter
 
 <br/>
 
 <a href="https://linkedin.com/in/madhank93">
-  <img align="left" alt="Madhan's Linkdein" width="120px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Madhan's Linkdein" width="90px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/madhank93">
-  <img align="left" alt="Madhan's Github" width="120px" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="left" alt="Madhan's Github" width="90px" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@madhankumaravelu93">
-  <img align="left" alt="Madhan's Medium" width="120px" height="30px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <img align="left" alt="Madhan's Medium" width="90px" height="30px" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
 </a>
 
 <a href="https://play.google.com/store/apps/developer?id=Madhan+Kumaravelu&hl=en">
-  <img align="left" alt="Madhan's Android publication" width="120px" height="30px" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  <img align="left" alt="Madhan's Android publication" width="90px" height="30px" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />
 </a>
 
 <a href="https://madhank93.github.io/">
-  <img align="left" alt="Madhan's portfolio" width="120px" height="30px" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  <img align="left" alt="Madhan's portfolio" width="90px" height="30px" src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white" />
 </a>
 
 <a href="https://stackoverflow.com/users/5514320/madhan">
-  <img align="left" alt="Madhan's stack overflow" width="120px" height="30px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <img align="left" alt="Madhan's stack overflow" width="90px" height="30px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
+</a>
+
+<a align="right" href="https://www.codewars.com/users/madhank93">
+<img src="https://www.codewars.com/users/madhank93/badges/large" width=300 heigh=500>
 </a>
 
 <br/>
-
-&nbsp;
-
-<a align="right" href="https://www.codewars.com/users/madhank93">
-<img src="https://www.codewars.com/users/madhank93/badges/large" width=300 heigh=300>
-</a>
 
 &nbsp;
 
