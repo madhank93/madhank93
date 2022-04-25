@@ -43,6 +43,7 @@
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Running containerized android tests in GCP using Pulumi and Selenoid](https://medium.com/@madhankumaravelu93/running-containerized-android-tests-in-gcp-using-pulumi-and-selenoid-faf4c398cd6c?source=rss-746ce7a5b455------2)
 - [Scaling tests on Google Kubernetes Engine with Cloud Build](https://medium.com/testvagrant/scaling-tests-on-google-kubernetes-engine-with-cloud-build-624d955f6698?source=rss-746ce7a5b455------2)
 - [Running WebdriverIO tests in containers](https://medium.com/testvagrant/running-webdriverio-tests-in-containers-871e0238e31f?source=rss-746ce7a5b455------2)
 - [Github Actions for Seleniod Test Scripts](https://medium.com/testvagrant/github-actions-for-seleniod-test-scripts-df469062a08c?source=rss-d5262110f51------2)
