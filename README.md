@@ -1,7 +1,7 @@
 <h2 align="center">யாதும் ஊரே 🌎 யாவரும் கேளிர் 🧑‍🤝‍🧑</h2>
 <h4 align="center">I am a world citizen 🌎 Every citizen is my own kith and kin 🧑‍🤝‍🧑</h4>
 
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Madhan
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px">, I am Madhan
 
 - 👨🏻‍💻  &nbsp;I’m primarily a Software test engineer
 - ⚛️ Technology agnostic, 🤸 T-shaped and 🧐 Curious engineer 
