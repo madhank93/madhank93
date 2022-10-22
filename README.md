@@ -3,43 +3,20 @@
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px">, I am Madhan
 
-- 👨🏻‍💻  &nbsp;I’m primarily a Software test engineer
-- ⚛️ Technology agnostic, 🤸 T-shaped and 🧐 Curious engineer 
-- 🌱  &nbsp;I’m interested in Backend engineering, Cloud native technologies and Mobile devlopment using Flutter
+- 🙂  &nbsp;I’m primarily a Software test engineer
+- ⚛️  &nbsp;Technology agnostic, 🤸 T-shaped and 🧐 Curious engineer
+- 🌱  &nbsp;Currently [learning](https://github.com/madhank93?tab=repositories&q=learn&type=&language=&sort=)
+- 👨🏻‍💻  &nbsp;Interested in Backend engineering, Cloud native technologies and Mobile devlopment using Flutter
 
-<br/>
-
-<a href="https://linkedin.com/in/madhank93">
-  <img align="left" alt="Madhan's Linkdein" width="90px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/madhank93">
-  <img align="left" alt="Madhan's Github" width="90px" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@madhankumaravelu93">
-  <img align="left" alt="Madhan's Medium" width="90px" height="30px" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://play.google.com/store/apps/developer?id=Madhan+Kumaravelu&hl=en">
-  <img align="left" alt="Madhan's Android publication" width="90px" height="30px" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />
-</a>
-
-<a href="https://madhank93.github.io/">
-  <img align="left" alt="Madhan's portfolio" width="90px" height="30px" src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white" />
-</a>
-
-<a href="https://stackoverflow.com/users/5514320/madhan">
-  <img align="left" alt="Madhan's stack overflow" width="90px" height="30px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
-</a>
-
-<a align="right" href="https://www.codewars.com/users/madhank93">
-<img src="https://www.codewars.com/users/madhank93/badges/micro" height="30px">
-</a>
-
-<br/>
-
-&nbsp;
+<p>
+  <a href = "https://linkedin.com/in/madhank93/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href = "https://github.com/madhank93" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+  <a href = "https://medium.com/@madhankumaravelu93" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
+  <a href = "https://play.google.com/store/apps/developer?id=Madhan+Kumaravelu&hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/google-play.png"/></a>
+  <a href = "https://madhank93.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/internet--v1.png"/></a>
+  <a href = "https://stackoverflow.com/users/5514320/madhan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+  <a href = "https://www.codewars.com/users/madhank93" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/madhank93/badges/micro" height="30px"/></a>
+</p>
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
