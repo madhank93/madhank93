@@ -20,6 +20,7 @@
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Test automation: Gathering metrics — Part 1](https://medium.com/@madhankumaravelu93/monitoring-test-automation-gathering-metrics-part-1-3946d8050627?source=rss-746ce7a5b455------2)
 - [Running containerized android tests in GCP using Pulumi and Selenoid](https://medium.com/@madhankumaravelu93/running-containerized-android-tests-in-gcp-using-pulumi-and-selenoid-faf4c398cd6c?source=rss-746ce7a5b455------2)
 - [Scaling tests on Google Kubernetes Engine with Cloud Build](https://medium.com/testvagrant/scaling-tests-on-google-kubernetes-engine-with-cloud-build-624d955f6698?source=rss-746ce7a5b455------2)
 - [Running WebdriverIO tests in containers](https://medium.com/testvagrant/running-webdriverio-tests-in-containers-871e0238e31f?source=rss-746ce7a5b455------2)
