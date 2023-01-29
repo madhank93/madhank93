@@ -20,6 +20,8 @@
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Low level system design — Parking Lot Design Part — II](https://medium.com/@madhankumaravelu93/low-level-system-design-parking-lot-design-part-ii-ab5f4efab90?source=rss-746ce7a5b455------2)
+- [Low level system design — Parking Lot Design Part — I](https://medium.com/@madhankumaravelu93/low-level-system-design-parking-lot-design-part-i-7567d510da1d?source=rss-746ce7a5b455------2)
 - [Monitoring Test automation: Gathering metrics — Part 1](https://medium.com/@madhankumaravelu93/monitoring-test-automation-gathering-metrics-part-1-3946d8050627?source=rss-746ce7a5b455------2)
 - [Running containerized android tests in GCP using Pulumi and Selenoid](https://medium.com/@madhankumaravelu93/running-containerized-android-tests-in-gcp-using-pulumi-and-selenoid-faf4c398cd6c?source=rss-746ce7a5b455------2)
 - [Scaling tests on Google Kubernetes Engine with Cloud Build](https://medium.com/testvagrant/scaling-tests-on-google-kubernetes-engine-with-cloud-build-624d955f6698?source=rss-746ce7a5b455------2)
@@ -29,5 +31,4 @@
 - [Selenium code snippets — a curated list of the working code example](https://medium.com/@madhankumaravelu93/selenium-code-snippets-a-curated-list-of-the-working-code-example-f7fbc692c2b6?source=rss-746ce7a5b455------2)
 - [Selenium cheat sheet — a comprehensive list of selenium commands](https://medium.com/@madhankumaravelu93/selenium-cheat-sheet-a-comprehensive-list-of-selenium-commands-fa4c5c9d11ab?source=rss-746ce7a5b455------2)
 - [What are build automation tool ? And a closer look at the Maven and POM file](https://medium.com/@madhankumaravelu93/what-are-build-automation-tool-and-a-closer-look-at-the-maven-and-pom-file-7b209a8a6c61?source=rss-746ce7a5b455------2)
-- [A Deep Dive into the W3C WebDriver Specification.](https://medium.com/@madhankumaravelu93/a-deep-dive-into-the-w3c-webdriver-specification-fcf0906048f9?source=rss-746ce7a5b455------2)
 <!-- BLOG-POST-LIST:END -->
