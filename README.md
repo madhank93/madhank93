@@ -20,7 +20,8 @@
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
-- [Production ready EKS cluster setup - Part I](https://medium.com/@madhankumaravelu93/production-ready-eks-cluster-setup-part-i-49a4eba171cc?source=rss-746ce7a5b455------2)
+- [AWS services — Identity Access Management &lpar;IAM&rpar;](https://medium.com/@madhankumaravelu93/aws-services-identity-access-management-iam-bcdf23bd0035?source=rss-746ce7a5b455------2)
+- [Production ready EKS cluster setup — Part I](https://medium.com/@madhankumaravelu93/production-ready-eks-cluster-setup-part-i-49a4eba171cc?source=rss-746ce7a5b455------2)
 - [Low level system design — Parking Lot Design Part — II](https://medium.com/@madhankumaravelu93/low-level-system-design-parking-lot-design-part-ii-ab5f4efab90?source=rss-746ce7a5b455------2)
 - [Low level system design — Parking Lot Design Part — I](https://medium.com/@madhankumaravelu93/low-level-system-design-parking-lot-design-part-i-7567d510da1d?source=rss-746ce7a5b455------2)
 - [Monitoring Test automation: Gathering metrics — Part 1](https://medium.com/@madhankumaravelu93/monitoring-test-automation-gathering-metrics-part-1-3946d8050627?source=rss-746ce7a5b455------2)
@@ -30,6 +31,5 @@
 - [Github Actions for Seleniod Test Scripts](https://medium.com/testvagrant/github-actions-for-seleniod-test-scripts-df469062a08c?source=rss-d5262110f51------2)
 - [Selenium DevOps series: Run your scripts in Travis CI](https://medium.com/@madhankumaravelu93/selenium-devops-series-run-your-scripts-in-travis-ci-b3505aaad367?source=rss-746ce7a5b455------2)
 - [Selenium code snippets — a curated list of the working code example](https://medium.com/@madhankumaravelu93/selenium-code-snippets-a-curated-list-of-the-working-code-example-f7fbc692c2b6?source=rss-746ce7a5b455------2)
-- [Selenium cheat sheet — a comprehensive list of selenium commands](https://medium.com/@madhankumaravelu93/selenium-cheat-sheet-a-comprehensive-list-of-selenium-commands-fa4c5c9d11ab?source=rss-746ce7a5b455------2)
 <!-- BLOG-POST-LIST:END -->
 - [A Deep Dive into the W3C WebDriver Specification](https://medium.com/@madhankumaravelu93/a-deep-dive-into-the-w3c-webdriver-specification-fcf0906048f9)
