@@ -1,17 +1,17 @@
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '0 0 * * 0' # Runs every weekly on Sunday.
-  workflow_dispatch:
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: 2000
-          committer_username: "madhank93"
-          committer_email: "madhankumaravelu93@gmail.com"
-          feed_list: "https://medium.com/feed/@madhankumaravelu93, https://medium.com/feed/@madhank_1182"
+# name: Latest blog post workflow
+# on:
+#   schedule:
+#     - cron: '0 0 * * 0' # Runs every weekly on Sunday.
+#   workflow_dispatch:
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#           max_post_count: 2000
+#           committer_username: "madhank93"
+#           committer_email: "madhankumaravelu93@gmail.com"
+#           feed_list: "https://medium.com/feed/@madhankumaravelu93, https://medium.com/feed/@madhank_1182"
