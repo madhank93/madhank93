@@ -19,6 +19,7 @@
 </p>
 
 📕 **Latest blog posts**
+- [Kubernetes The Hard Way IaC — Part I](https://medium.com/@madhankumaravelu93/kubernetes-the-hard-way-iac-part-i-82127c82462c)
 - [Production-ready EKS cluster setup — Part III](https://medium.com/@madhankumaravelu93/production-ready-eks-cluster-setup-part-iii-c629648f9cd0?source=rss-746ce7a5b455------2)
 - [Production-ready EKS cluster setup — Part II](https://medium.com/@madhankumaravelu93/production-ready-eks-cluster-setup-part-ii-f702542cde7c?source=rss-746ce7a5b455------2)
 - [AWS services — Identity Access Management &lpar;IAM&rpar;](https://medium.com/@madhankumaravelu93/aws-services-identity-access-management-iam-bcdf23bd0035?source=rss-746ce7a5b455------2)
