@@ -3,10 +3,10 @@
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px">, I am Madhan
 
-- 🙂  &nbsp;I’m a Software test engineer turned into a DevOps engineer
-- ⚛️  &nbsp;Technology agnostic, 🤸 T-shaped and 🧐 Curious engineer
-- 🌱  &nbsp;Currently [learning](https://github.com/madhank93?tab=repositories&q=learn&type=&language=&sort=)
-- 👨🏻‍💻  &nbsp;Interested in Backend engineering, Cloud native technologies and Mobile devlopment using Flutter
+- 🙂  &nbsp; I’m a Software test engineer turned into a DevOps engineer
+- ⚛️  &nbsp; Technology agnostic, 🤸 T-shaped and 🧐 Curious engineer
+- 🌱  &nbsp; Currently [learning](https://github.com/madhank93?tab=repositories&q=learn&type=&language=&sort=)
+- 👨🏻‍💻  &nbsp; Interested in Backend engineering, Large-scale distributed systems, Cloud native technologies, and Mobile development using Flutter
 
 <p>
   <a href = "https://linkedin.com/in/madhank93/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
