@@ -19,6 +19,11 @@
 </p>
 
 📕 **Latest blog posts**
+- [Securely storing secrets — Part I](https://medium.com/@madhankumaravelu93/securely-storing-secrets-part-i-f1b5f3b56d49)
+- [Unlocking geo-restricted contents with Tailscale](https://medium.com/@madhankumaravelu93/unlocking-geo-restricted-contents-with-tailscale-1185def384fc)
+- [Getting Started with Crossplane — Part I](https://medium.com/@madhankumaravelu93/getting-started-with-crossplane-part-i-3d549b2937fb)
+- [Solving Sad Servers — Part I](https://medium.com/@madhankumaravelu93/solving-sad-servers-part-i-440bb3151de7)
+- [Serving LLMs from Raspberry Pi using Ollama and Cloudflare Tunnel](https://medium.com/@madhankumaravelu93/serving-llms-from-raspberry-pi-using-ollama-and-cloudflare-tunnel-a688930583cc)
 - [Kubernetes The Hard Way IaC — Part I](https://medium.com/@madhankumaravelu93/kubernetes-the-hard-way-iac-part-i-82127c82462c)
 - [Production-ready EKS cluster setup — Part III](https://medium.com/@madhankumaravelu93/production-ready-eks-cluster-setup-part-iii-c629648f9cd0?source=rss-746ce7a5b455------2)
 - [Production-ready EKS cluster setup — Part II](https://medium.com/@madhankumaravelu93/production-ready-eks-cluster-setup-part-ii-f702542cde7c?source=rss-746ce7a5b455------2)
