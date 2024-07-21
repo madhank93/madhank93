@@ -15,6 +15,7 @@
   <a href = "https://play.google.com/store/apps/developer?id=Madhan+Kumaravelu&hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/google-play.png"/></a>
   <a href = "https://madhank93.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/internet--v1.png"/></a>
   <a href = "https://stackoverflow.com/users/5514320/madhan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+  <a href = "https://www.credly.com/users/madhank93" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/credly.png"/></a>
   <a href = "https://www.codewars.com/users/madhank93" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/madhank93/badges/micro" height="30px"/></a>
 </p>
 
