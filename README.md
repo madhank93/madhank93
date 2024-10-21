@@ -20,6 +20,9 @@
 </p>
 
 📕 **Latest blog posts**
+- [Building a Home Lab server — Part II](https://medium.com/@madhankumaravelu93/building-a-home-lab-server-part-ii-45c7273332a8)
+- [Building a Home Lab server — Part I](https://medium.com/@madhankumaravelu93/building-a-home-lab-server-part-i-2660683a8d96)
+- [Streamlined Resume Design Using Typst](https://medium.com/@madhankumaravelu93/streamlined-resume-design-using-typst-b6cd603c97b3)
 - [Securely storing secrets — Part I](https://medium.com/@madhankumaravelu93/securely-storing-secrets-part-i-f1b5f3b56d49)
 - [Unlocking geo-restricted contents with Tailscale](https://medium.com/@madhankumaravelu93/unlocking-geo-restricted-contents-with-tailscale-1185def384fc)
 - [Getting Started with Crossplane — Part I](https://medium.com/@madhankumaravelu93/getting-started-with-crossplane-part-i-3d549b2937fb)
