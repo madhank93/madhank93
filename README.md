@@ -20,6 +20,7 @@
 </p>
 
 📕 **Latest blog posts**
+- [Running Super Mario on Kubernetes in a Proxmox Homelab](https://medium.com/@madhankumaravelu93/running-super-mario-on-kubernetes-in-a-proxmox-homelab-e809b337d9bf)
 - [Setting up Kubernetes on Proxmox with Cloud-Init and Pulumi— Part I](https://medium.com/@madhankumaravelu93/setting-up-kubernetes-on-proxmox-with-cloud-init-and-pulumi-part-i-64e697bdfe98)
 - [Building a Home Lab server — Part II](https://medium.com/@madhankumaravelu93/building-a-home-lab-server-part-iii-65844f344ac2)
 - [Building a Home Lab server — Part II](https://medium.com/@madhankumaravelu93/building-a-home-lab-server-part-ii-45c7273332a8)
