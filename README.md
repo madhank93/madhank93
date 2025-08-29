@@ -20,6 +20,10 @@
 </p>
 
 📕 **Latest blog posts**
+- [Deploying OpenAI’s GPT-OSS model on Kubernetes with Ollama](https://medium.com/@madhankumaravelu93/deploying-openais-gpt-oss-model-on-kubernetes-with-ollama-dec1efb158fb)
+- [Adding Nvidia GPU boost to Proxmox k8s using Pulumi and Kubespray](https://medium.com/@madhankumaravelu93/adding-nvidia-gpu-boost-to-proxmox-k8s-using-pulumi-and-kubespray-d5d9d3dace94)
+- [Making my homelab server AI ready with Nvidia GPU — Part II](https://medium.com/@madhankumaravelu93/making-my-homelab-server-ai-ready-with-nvidia-gpu-part-ii-a6ef95b7282b)
+- [Making my homelab server AI ready with Nvidia GPU — Part I](https://medium.com/@madhankumaravelu93/making-my-homelab-server-ai-ready-with-nvidia-gpu-part-i-e292ad0ea042)
 - [Running Super Mario on Kubernetes in a Proxmox Homelab](https://medium.com/@madhankumaravelu93/running-super-mario-on-kubernetes-in-a-proxmox-homelab-e809b337d9bf)
 - [Setting up Kubernetes on Proxmox with Cloud-Init and Pulumi— Part I](https://medium.com/@madhankumaravelu93/setting-up-kubernetes-on-proxmox-with-cloud-init-and-pulumi-part-i-64e697bdfe98)
 - [Building a Home Lab server — Part II](https://medium.com/@madhankumaravelu93/building-a-home-lab-server-part-iii-65844f344ac2)
